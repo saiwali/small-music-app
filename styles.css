@@ -1,0 +1,24 @@
+body {
+  background-color: black
+}
+
+h2 {
+  font-family: 'Titan One', cursive;
+  font-size: 1.5rem;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Titan One', cursive;
+  font-size: 2rem;
+  color: white;
+}
+
+.container-fluid {
+  border-radius: 25px;
+  height: 1000px;
+  width: 800px;
+  padding: 3% 0% 2% 5%;
+  background-color: white;
+}
